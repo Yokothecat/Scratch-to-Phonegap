@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "catch.yokothecat.edu.mit.scratch"
+        id          = "sort.yokothecat.edu.mit.scratch"
         versionCode = "10" 
         version     = "1.0.0" >
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Catch with your own hand</name>
+    <name>Sorting algorithms</name>
 
     <description>
         An app made using Scratch, GitHub, and PhoneGap.
     </description>
 
-    <author href="http://scratch.mit.edu/users/Yoko_the_cat" email="ioan.voinea23@yahoo.ro">
-        Yoko_the_cat
+    <author href="http://scratch.mit.edu/users/Yoko-the-cat" email="ioan.voinea23@yahoo.ro">
+        Yoko-the-cat
     </author>
 
 </widget>
